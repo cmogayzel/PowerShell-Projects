@@ -21,3 +21,8 @@ Each folder contains:
 
 ![alt text](ScreenCaptures/CreateLocalUserAccount.png)
 
+# Ouptput a text file from looking a folder items 09/10/2025
+- Scripts ask for the source folder then gets the folder's child items then Outputs the results in a file in the destniation folder and file entered by the user.
+
+- Sample file name is called ProjectFiles.txt
+

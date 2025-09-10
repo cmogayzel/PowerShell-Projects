@@ -1,0 +1,15 @@
+
+    Directory: C:\PowerShell-Projects
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           9/10/2025 12:59 PM                ScreenCaptures
+-a---           9/10/2025  1:01 PM            486 Createuser.ps1
+-a---            9/2/2025  4:50 PM              0 fileorganizing.ps1
+-a---            9/2/2025  4:48 PM           1094 LICENSE
+-a---           9/10/2025  1:32 PM            208 output.ps1
+-a---           9/10/2025  1:30 PM              0 outputFilePath
+-a---           9/10/2025  1:37 PM              0 ProjectFiles.txt
+-a---           9/10/2025  1:07 PM           1041 README.md
+-a---            9/2/2025  4:48 PM           1109 website_foldercreator.ps1
+

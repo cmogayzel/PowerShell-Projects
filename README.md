@@ -14,3 +14,10 @@ Each folder contains:
 - **README.md** → A short description of what the script does, how to use it, and any requirements
 - **Example Output** (if applicable) → Sample logs, reports, or screenshots
 
+
+# Creating Local User Group 09/10/2025
+# Createuser.ps1
+- Script creates a local user account and ask for user name, password, description and the group the user will be in. Results of running the script in image below.
+
+![alt text](ScreenCaptures/CreateLocalUserAccount.png)
+
